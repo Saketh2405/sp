@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569222735806",
+    "project_id": "tbpredict-2dd1c",
+    "storage_bucket": "tbpredict-2dd1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569222735806:android:b59fe15271e34b5ef4fbef",
+        "android_client_info": {
+          "package_name": "com.example.tbpredict"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569222735806-semul8tfk7tp6lqe3m5nurnkfghju5gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiYniC0i_t3gBOV6WiZkpy7VfJgzC8qzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569222735806-semul8tfk7tp6lqe3m5nurnkfghju5gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
